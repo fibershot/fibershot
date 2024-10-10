@@ -4,7 +4,7 @@ Welcome to my page! I am a 21-year-old from Finland. I am a mediocre / unremarka
 
 ---
 
-## About Me :accessibility:
+## About Me 💻
 
 I bundle characters and random words together to see what works as code (sometimes on purpose)! 
 
