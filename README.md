@@ -1,6 +1,6 @@
 # Welcome 🇫🇮
 
-Welcome to my page! I am a 22-year-old from Finland. I am a mediocre / unremarkable / so-so / middling coder (I try my hardest, okay?).
+Welcome to my page! I am a 23-year-old from Finland. I am a mediocre / unremarkable / so-so / middling coder (I try my hardest, okay?).
 
 ## About Me 💻
 
